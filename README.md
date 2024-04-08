@@ -22,12 +22,13 @@ For a more *detailed version* with **clickable links**
   - *Chapter 7*: Sequential Data
   - *Chapter 8*: Map, Filter, & Reduce
   - *Chapter 9*: Mappings & Sets
+  - *Chapter 10*: Arrays & Dataframes
   - *Chapter 11*: Classes & Instances
 
 
 #### Videos
 
-Presentations of the chapters are available on this [YouTube playlist <img height="12" style="display: inline-block" src="static/link/to_yt.png">](https://www.youtube.com/playlist?list=PL-2JV1G3J10lQ2xokyQowcRJI5jjNfW7f).
+Presentations of the chapters are available on this [YouTube playlist <img height="12" style="display: inline-block" src="static/link/to_yt.png">](https://www.youtube.com/playlist?list=PL-2JV1G3J10kRUPgP7EwLhyeN5lOZW2kH).
 The recordings are about 25 hours long in total
     and were made in spring 2020
     after a corresponding in-class Bachelor course was cancelled due to Corona.
@@ -75,21 +76,21 @@ If you are familiar with
 
 ### Installation
 
-To follow this course, an installation of **Python 3.8** or higher is expected.
+To follow this course, an installation of **Python 3.11** or higher is expected.
 
 A popular and beginner friendly way is
-    to install the [Anaconda Distribution](https://www.anaconda.com/products/individual)
+    to install the [Anaconda Distribution](https://www.anaconda.com/download)
     that not only ships Python itself
     but also comes pre-packaged with a lot of third-party libraries.
 
 <img src="static/anaconda_download.png" width="50%">
 
-Scroll down to the [download](https://www.anaconda.com/products/individual#Downloads) section
+Scroll down to the "Anaconda Installers" section
     and install the latest version for your operating system
-    (i.e., *2020-07* with Python 3.8 at the time of this writing).
+    (i.e., *2024-02* with Python 3.11 at the time of this writing).
 
 After installation,
-    you find an entry "[Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/)"
+    you find an entry "[Anaconda Navigator](https://docs.anaconda.com/free/navigator/)"
     in your start menu.
 Click on it.
 
@@ -138,7 +139,7 @@ Then, unpack the ZIP file into a folder of your choice,
 <img src="static/repo_download.png" width="50%">
 
 
-### Alternative Installation (for Instructors)
+### Alternative Installation (for Instructors using Linux)
 
 Python can also be installed in a "pure" way
     obtained directly from its core development team [here](https://www.python.org/downloads/).
@@ -229,31 +230,6 @@ The command-line interface stays open in the background,
     and prints log messages as we work in [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/).
 
 <img src="static/cli_jupyter_lab.png" width="50%" align="center">
-
-
-#### Interactive Presentation Mode & Live Coding
-
-`poetry install` also installs the
-    [RISE <img height="12" style="display: inline-block" src="static/link/to_gh.png">](https://github.com/damianavila/RISE)
-    extension for Jupyter.
-With that, the instructor can execute code in *presentation* mode during a class session.
-However, the RISE extension does *not* work in the more recent
-    [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) app
-    but only in the older [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/) app,
-    which comes with less features
-        and a simpler [GUI <img height="12" style="display: inline-block" src="static/link/to_gh.png">](https://en.wikipedia.org/wiki/Graphical_user_interface).
-The instructor can start the latter with:
-
-- `poetry run jupyter notebook`
-
-This also opens a new tab in the web browser.
-After opening a notebook,
-    clicking on the button highlighted below
-    starts the presentation mode.
-
-<img src="static/presentation_mode.png" width="50%" align="center">
-
-Not all notebooks are designed for this presentation mode.
 
 
 ## Contributing
