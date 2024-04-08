@@ -35,8 +35,8 @@ If this is not possible,
      JupyterLab;
      Programming vs. Computer Science;
      Learning Tips)
-  - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/00_intro/01_exercises.ipynb)
-    [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/00_intro/01_exercises.ipynb)
+  - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/00_intro/01_exercises_markdown.ipynb)
+    [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/00_intro/01_exercises_markdown.ipynb)
     (Mastering Markdown)
   - [review questions <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/00_intro/02_review.ipynb)
 - **Part A: Expressing Logic**
@@ -47,11 +47,11 @@ If this is not possible,
        Operators;
        Objects & Data Types;
        Errors)
-    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/01_elements/01_exercises.ipynb)
-      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/01_elements/01_exercises.ipynb)
+    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/01_elements/01_exercises_print.ipynb)
+      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/01_elements/01_exercises_print.ipynb)
       (Printing Output)
-    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/01_elements/02_exercises.ipynb)
-      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/01_elements/02_exercises.ipynb)
+    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/01_elements/02_exercises_for-loops.ipynb)
+      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/01_elements/02_exercises_for-loops.ipynb)
       (Simple `for`-loops)
     - [content <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/01_elements/03_content.ipynb)
       [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/01_elements/03_content.ipynb)
@@ -59,8 +59,8 @@ If this is not possible,
        Variables & References;
        Mutability;
        Expressions & Statements)
-    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/01_elements/04_exercises.ipynb)
-      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/01_elements/04_exercises.ipynb)
+    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/01_elements/04_exercises_calculator.ipynb)
+      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/01_elements/04_exercises_calculator.ipynb)
       (Python as a Calculator)
     - [summary <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/01_elements/05_summary.ipynb)
     - [review questions <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/01_elements/06_review.ipynb)
@@ -74,8 +74,8 @@ If this is not possible,
        Function Calls & Scoping Rules;
        Positional vs. Keyword Arguments;
        Modularization)
-    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/02_functions/01_exercises.ipynb)
-      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/02_functions/01_exercises.ipynb)
+    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/02_functions/01_exercises_sphere-volume.ipynb)
+      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/02_functions/01_exercises_sphere-volume.ipynb)
       (Volume of a Sphere)
     - [content <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/02_functions/02_content.ipynb)
       [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/02_functions/02_content.ipynb)
@@ -92,11 +92,11 @@ If this is not possible,
        Logical Operators;
        `if` statement;
        Exception Handling)
-    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/03_conditionals/01_exercises.ipynb)
-      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/03_conditionals/01_exercises.ipynb)
+    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/03_conditionals/01_exercises_discounts.ipynb)
+      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/03_conditionals/01_exercises_discounts.ipynb)
       (Discounting Customer Orders)
-    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/03_conditionals/02_exercises.ipynb)
-      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/03_conditionals/02_exercises.ipynb)
+    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/03_conditionals/02_exercises_fizz-buzz.ipynb)
+      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/03_conditionals/02_exercises_fizz-buzz.ipynb)
       (Fizz Buzz)
     - [summary <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/03_conditionals/03_summary.ipynb)
     - [review questions <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/03_conditionals/04_review.ipynb)
@@ -108,8 +108,8 @@ If this is not possible,
        Duck Typing;
        Type Casting & Checking;
        Input Validation)
-    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/04_iteration/01_exercises.ipynb)
-      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/04_iteration/01_exercises.ipynb)
+    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/04_iteration/01_exercises_hanoi-towers.ipynb)
+      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/04_iteration/01_exercises_hanoi-towers.ipynb)
       (Towers of Hanoi)
     - [content <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/04_iteration/02_content.ipynb)
       [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/04_iteration/02_content.ipynb)
@@ -120,8 +120,8 @@ If this is not possible,
       [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/04_iteration/03_content.ipynb)
       (Customizing Loops with `break` and `continue`;
        Indefinite Loops)
-    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/04_iteration/04_exercises.ipynb)
-      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/04_iteration/04_exercises.ipynb)
+    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/04_iteration/04_exercises_dice.ipynb)
+      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/04_iteration/04_exercises_dice.ipynb)
       (Throwing Dice)
     - [summary <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/04_iteration/05_summary.ipynb)
     - [review questions <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/04_iteration/06_review.ipynb)
@@ -162,8 +162,8 @@ If this is not possible,
        Indexing & Slicing;
        String Methods & Operations;
        String Interpolation)
-    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/06_text/01_exercises.ipynb)
-      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/06_text/01_exercises.ipynb)
+    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/06_text/01_exercises_palindromes.ipynb)
+      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/06_text/01_exercises_palindromes.ipynb)
       (Detecting Palindromes)
     - [content <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/06_text/02_content.ipynb)
       [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/06_text/02_content.ipynb)
@@ -187,8 +187,8 @@ If this is not possible,
        Indexing & Slicing;
        Shallow vs. Deep Copies;
        List Methods & Operations)
-    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/07_sequences/02_exercises.ipynb)
-      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/07_sequences/02_exercises.ipynb)
+    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/07_sequences/02_exercises_lists.ipynb)
+      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/07_sequences/02_exercises_lists.ipynb)
       (Working with Lists)
     - [content <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/07_sequences/03_content.ipynb)
       [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/07_sequences/03_content.ipynb)
@@ -196,8 +196,8 @@ If this is not possible,
        `tuple` Type;
        Packing & Unpacking;
        `*args` in Function Definitions)
-    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/07_sequences/04_exercises.ipynb)
-      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/07_sequences/04_exercises.ipynb)
+    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/07_sequences/04_exercises_un-packing.ipynb)
+      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/07_sequences/04_exercises_un-packing.ipynb)
       (Packing & Unpacking with Functions)
     - [appendix <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/07_sequences/05_appendix.ipynb)
       [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/07_sequences/05_appendix.ipynb)
@@ -217,11 +217,11 @@ If this is not possible,
        `generator` Expression;
        Streams of Data;
        Boolean Reducers)
-    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/08_mfr/02_exercises.ipynb)
-      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/08_mfr/02_exercises.ipynb)
+    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/08_mfr/02_exercises_outliers.ipynb)
+      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/08_mfr/02_exercises_outliers.ipynb)
       (Removing Outliers in Streaming Data)
-    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/08_mfr/03_exercises.ipynb)
-      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/08_mfr/03_exercises.ipynb)
+    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/08_mfr/03_exercises_un-packing.ipynb)
+      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/08_mfr/03_exercises_un-packing.ipynb)
       (Packing & Unpacking with Functions, continued)
     - [content <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/08_mfr/04_content.ipynb)
       [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/08_mfr/04_content.ipynb)
@@ -237,15 +237,15 @@ If this is not possible,
        Hash Tables;
        `dict` Methods & Behavior;
        `dict` Comprehension)
-    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/09_mappings/01_exercises.ipynb)
-      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/09_mappings/01_exercises.ipynb)
+    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/09_mappings/01_exercises_nested-data.ipynb)
+      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/09_mappings/01_exercises_nested-data.ipynb)
       (Working with Nested Data)
     - [content <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/09_mappings/02_content.ipynb)
       [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/09_mappings/02_content.ipynb)
       (`**kwargs` in Function Definitions;
        Memoization)
-    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/09_mappings/03_exercises.ipynb)
-      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/09_mappings/03_exercises.ipynb)
+    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/09_mappings/03_exercises_fibonacci.ipynb)
+      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/09_mappings/03_exercises_fibonacci.ipynb)
       (Memoization without Side Effects)
     - [content <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/09_mappings/04_content.ipynb)
       [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/09_mappings/04_content.ipynb)
@@ -271,8 +271,8 @@ If this is not possible,
        Text Representations;
        Instance Methods vs. Class Methods;
        Computed Properties)
-    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/11_classes/01_exercises.ipynb)
-      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/11_classes/01_exercises.ipynb)
+    - [exercises <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/11_classes/01_exercises_tsp.ipynb)
+      [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/11_classes/01_exercises_tsp.ipynb)
       (A Traveling Salesman Problem)
     - [content <img height="12" style="display: inline-block" src="static/link/to_nb.png">](https://nbviewer.jupyter.org/github/webartifex/intro-to-python/blob/develop/11_classes/02_content.ipynb)
       [<img height="12" style="display: inline-block" src="static/link/to_mb.png">](https://mybinder.org/v2/gh/webartifex/intro-to-python/develop?urlpath=lab/tree/11_classes/02_content.ipynb)
