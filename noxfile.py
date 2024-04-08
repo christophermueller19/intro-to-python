@@ -87,23 +87,23 @@ def fix_branch_references(_session):
         {
             "name": "github",
             "pattern": re.compile(
-                fr"((((http)|(https))://github\.com/{REPOSITORY}/((blob)|(tree))/)([\w-]+)/)"
+                rf"((((http)|(https))://github\.com/{REPOSITORY}/((blob)|(tree))/)([\w-]+)/)"
             ),
-            "replacement": fr"\2{branch}/",
+            "replacement": rf"\2{branch}/",
         },
         {
             "name": "nbviewer",
             "pattern": re.compile(
-                fr"((((http)|(https))://nbviewer\.jupyter\.org/github/{REPOSITORY}/((blob)|(tree))/)([\w-]+)/)",
+                rf"((((http)|(https))://nbviewer\.jupyter\.org/github/{REPOSITORY}/((blob)|(tree))/)([\w-]+)/)",
             ),
-            "replacement": fr"\2{branch}/",
+            "replacement": rf"\2{branch}/",
         },
         {
             "name": "mybinder",
             "pattern": re.compile(
-                fr"((((http)|(https))://mybinder\.org/v2/gh/{REPOSITORY}/)([\w-]+)\?)",
+                rf"((((http)|(https))://mybinder\.org/v2/gh/{REPOSITORY}/)([\w-]+)\?)",
             ),
-            "replacement": fr"\2{branch}?",
+            "replacement": rf"\2{branch}?",
         },
     ]
 
