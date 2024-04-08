@@ -28,7 +28,7 @@ For a more *detailed version* with **clickable links**
 
 #### Videos
 
-Presentations of the chapters are available on this [YouTube playlist <img height="12" style="display: inline-block" src="static/link/to_yt.png">](https://www.youtube.com/playlist?list=PL-2JV1G3J10lQ2xokyQowcRJI5jjNfW7f).
+Presentations of the chapters are available on this [YouTube playlist <img height="12" style="display: inline-block" src="static/link/to_yt.png">](https://www.youtube.com/playlist?list=PL-2JV1G3J10kRUPgP7EwLhyeN5lOZW2kH).
 The recordings are about 25 hours long in total
     and were made in spring 2020
     after a corresponding in-class Bachelor course was cancelled due to Corona.
@@ -76,21 +76,21 @@ If you are familiar with
 
 ### Installation
 
-To follow this course, an installation of **Python 3.8** or higher is expected.
+To follow this course, an installation of **Python 3.11** or higher is expected.
 
 A popular and beginner friendly way is
-    to install the [Anaconda Distribution](https://www.anaconda.com/products/individual)
+    to install the [Anaconda Distribution](https://www.anaconda.com/download)
     that not only ships Python itself
     but also comes pre-packaged with a lot of third-party libraries.
 
 <img src="static/anaconda_download.png" width="50%">
 
-Scroll down to the [download](https://www.anaconda.com/products/individual#Downloads) section
+Scroll down to the "Anaconda Installers" section
     and install the latest version for your operating system
-    (i.e., *2020-07* with Python 3.8 at the time of this writing).
+    (i.e., *2024-02* with Python 3.11 at the time of this writing).
 
 After installation,
-    you find an entry "[Anaconda Navigator](https://docs.anaconda.com/anaconda/navigator/)"
+    you find an entry "[Anaconda Navigator](https://docs.anaconda.com/free/navigator/)"
     in your start menu.
 Click on it.
 
