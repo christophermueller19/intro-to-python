@@ -4,7 +4,7 @@ build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
 name = "intro-to-python"
-version = "0.1.0.dev0"
+version = "0.1.0"
 package-mode = false
 
 authors = ["Alexander Hess <alexander@webartifex.biz>"]
